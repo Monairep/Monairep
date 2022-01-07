@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Monairep
-- 👀 I’m interested in front end web deleopment 
+- 👀 I’m interested in front end web development 
 - 🌱 I’m currently learning HTML and CSS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
